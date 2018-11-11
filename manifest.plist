@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://qq05689815.github.io/ios/ios.512x512.png</string>
+					<string>https://qq05689815.github.io/ios/ios.57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>cn.easyu.oneservice</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>oneservice</string>
+				<string>一键服务</string>
 			</dict>
 		</dict>
 	</array>
